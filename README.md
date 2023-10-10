@@ -52,7 +52,10 @@ mysql -u your_db_user -p your_db_name < database.sql
 ```
 ### Place the project files in your web server's document root directory.
 
-Access the project using a web browser by navigating to http://localhost/school-college-data-management.
+#### Access the project using a web browser by navigating to
+```bash
+http://localhost/school-college-data-management.
+```
 
 ## Usage
 ### Adding Data
